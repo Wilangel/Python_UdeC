@@ -1,0 +1,9 @@
+pares=[2,4,6,8,10,12,14]
+decimales=[2.5,4.3,100.00]
+animales=["gato","perro","vaca","leon","tigre"]
+persona=["pedro",20,1.75,"Masculino"]
+print(len(pares))
+print(len(decimales))
+print(len(animales))
+print(len(persona))
+print(len(list("jose")))

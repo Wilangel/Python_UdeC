@@ -1,0 +1,5 @@
+'''EL PROGRAMA IMPRIME UN HOLA MUNDO
+DESDE PYTHON'''
+
+
+print ("hola mundo")

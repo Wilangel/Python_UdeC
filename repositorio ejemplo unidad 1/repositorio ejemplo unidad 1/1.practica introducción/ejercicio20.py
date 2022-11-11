@@ -1,0 +1,6 @@
+cadena=input("introduce  una cadena\n")
+entero=int(input("introduce un entero\n"))
+decimal=float(input("introduce un decumal\n"))
+print(cadena)
+print(entero)
+print(decimal)
